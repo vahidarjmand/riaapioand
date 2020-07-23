@@ -1,0 +1,1 @@
+keytool -list -v -keystore my-upload-key.keystore -alias ir.usscript.oreo -storepass yakamoz66 -keypass yakamoz66
